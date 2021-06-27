@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent" >
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@color/background"
+        android:orientation="vertical"
+        tools:context=".RegisterForm">
+
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="@dimen/_70sdp"
+            android:contentDescription="@string/app_name"
+            android:padding="@dimen/_1sdp"
+            android:src="@drawable/geoindoorlogo" />
+
+        <ImageView
+            android:id="@+id/img_profile"
+            android:layout_width="match_parent"
+            android:layout_height="@dimen/_200sdp"
+            android:layout_marginTop="@dimen/_5sdp"
+            android:contentDescription="@string/profile"
+            android:padding="@dimen/_1sdp"
+            android:src="@drawable/profile_pic" />
+
+        <Button
+            android:id="@+id/buttonLoadPicture"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="@dimen/_5sdp"
+            android:background="@drawable/rounded"
+            android:text="@string/change_picture"
+            android:textColor="@color/background"
+            android:textSize="@dimen/_22ssp" />
+
+        <com.google.android.material.textfield.TextInputLayout
+            android:id="@+id/first_name"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="@dimen/_30sdp"
+            android:focusable="true"
+            android:focusableInTouchMode="true"
+            android:textColorHint="@color/colorAccent">
+
+            <com.google.android.material.textfield.TextInputEditText
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:backgroundTint="#d3d3d3"
+                android:ems="10"
+                android:hint="@string/first_name"
+                android:inputType="text"
+                android:textColor="#000000"
+                android:textSize="@dimen/_22ssp" />
+
+        </com.google.android.material.textfield.TextInputLayout>
+
+
+        <com.google.android.material.textfield.TextInputLayout
+            android:id="@+id/last_name"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="@dimen/_5sdp"
+            android:textColorHint="@color/colorAccent">
+
+            <com.google.android.material.textfield.TextInputEditText
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:backgroundTint="#d3d3d3"
+                android:ems="10"
+                android:focusable="true"
+                android:focusableInTouchMode="true"
+                android:hint="@string/last_name"
+                android:inputType="text"
+                android:textColor="#000000"
+                android:textSize="@dimen/_22ssp" />
+
+        </com.google.android.material.textfield.TextInputLayout>
+
+
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="@dimen/_50sdp"
+            android:background="@drawable/rounded"
+            android:onClick="btn_name_registration"
+            android:text="@string/next"
+            android:textColor="@color/background"
+            android:textSize="@dimen/_22ssp" />
+
+
+    </LinearLayout>
+</ScrollView>

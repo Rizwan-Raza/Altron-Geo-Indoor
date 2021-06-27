@@ -1,0 +1,1832 @@
+{
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "marker": "Study Area 1"
+      },
+      "geometry": {
+        "coordinates": [
+          144.962814,
+          -37.808074
+        ],
+        "type": "Point"
+      },
+      "id": "011477beda4bfc1a55237d33ca2870a0"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker": "Lecture Theatre 3"
+      },
+      "geometry": {
+        "coordinates": [
+          144.962541,
+          -37.808438
+        ],
+        "type": "Point"
+      },
+      "id": "072db9383efb0b830559f296b205ea76"
+    },
+    {
+      "type": "Feature",
+      "properties": {},
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              144.96283,
+              -37.808184
+            ],
+            [
+              144.962804,
+              -37.808131
+            ],
+            [
+              144.962882,
+              -37.808104
+            ],
+            [
+              144.962892,
+              -37.80812
+            ],
+            [
+              144.962828,
+              -37.80814
+            ],
+            [
+              144.962847,
+              -37.808178
+            ],
+            [
+              144.96283,
+              -37.808184
+            ]
+          ]
+        ],
+        "type": "Polygon"
+      },
+      "id": "08e63c0ebaa10150b12849e5c717895d"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "BBQ Area"
+      },
+      "geometry": {
+        "coordinates": [
+          144.962311,
+          -37.808595
+        ],
+        "type": "Point"
+      },
+      "id": "0d2c08e3032b32774cc081ad4ac21fda"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker": "BBQ Area"
+      },
+      "geometry": {
+        "coordinates": [
+          144.962322,
+          -37.808622
+        ],
+        "type": "Point"
+      },
+      "id": "11b8875d870974d996bab1aa4c5b7030"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "junction": 24
+      },
+      "geometry": {
+        "coordinates": [
+          144.962309,
+          -37.808578
+        ],
+        "type": "Point"
+      },
+      "id": "165c6d5d6e87a03d8aafc704ba0da2ee"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "junction": 28
+      },
+      "geometry": {
+        "coordinates": [
+          144.962722,
+          -37.808589
+        ],
+        "type": "Point"
+      },
+      "id": "16b4ea68bd50a6b059508bf6b0529907"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "junction": 2
+      },
+      "geometry": {
+        "coordinates": [
+          144.962745,
+          -37.808408
+        ],
+        "type": "Point"
+      },
+      "id": "18fe8978a8199193d4c7343c688b07a1"
+    },
+    {
+      "type": "Feature",
+      "properties": {},
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              144.96226,
+              -37.808023
+            ],
+            [
+              144.962434,
+              -37.807971
+            ],
+            [
+              144.962512,
+              -37.808149
+            ],
+            [
+              144.962363,
+              -37.808243
+            ],
+            [
+              144.96226,
+              -37.808023
+            ]
+          ]
+        ],
+        "type": "Polygon"
+      },
+      "id": "19ffe2de63568be3030d5b194114d99d"
+    },
+    {
+      "type": "Feature",
+      "properties": {},
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              144.963014,
+              -37.808203
+            ],
+            [
+              144.962993,
+              -37.808265
+            ],
+            [
+              144.962874,
+              -37.808238
+            ],
+            [
+              144.962885,
+              -37.808203
+            ],
+            [
+              144.962999,
+              -37.808166
+            ],
+            [
+              144.963014,
+              -37.808203
+            ]
+          ]
+        ],
+        "type": "Polygon"
+      },
+      "id": "1a6e239e0fea1bc7336a1bad3710ca44"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "entrance",
+        "junction": 26
+      },
+      "geometry": {
+        "coordinates": [
+          144.963063,
+          -37.808263
+        ],
+        "type": "Point"
+      },
+      "id": "1e3f049a75fc7bbffa9946d3b46178f0"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker": "Lecture Theatre 2"
+      },
+      "geometry": {
+        "coordinates": [
+          144.96238,
+          -37.808078
+        ],
+        "type": "Point"
+      },
+      "id": "21b9f9005d9f5fbf242430aa865c4cf9"
+    },
+    {
+      "type": "Feature",
+      "properties": {},
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              144.962741,
+              -37.808036
+            ],
+            [
+              144.962865,
+              -37.808052
+            ],
+            [
+              144.962869,
+              -37.808091
+            ],
+            [
+              144.962794,
+              -37.808114
+            ],
+            [
+              144.962741,
+              -37.808036
+            ]
+          ]
+        ],
+        "type": "Polygon"
+      },
+      "id": "22a04295af9beb41baa1bf1585cfbac0"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Lectorial 2"
+      },
+      "geometry": {
+        "coordinates": [
+          144.962524,
+          -37.808262
+        ],
+        "type": "Point"
+      },
+      "id": "2574db0ad1dadb13629e5073442de664"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker": "Interactive Theatre 1"
+      },
+      "geometry": {
+        "coordinates": [
+          144.96256,
+          -37.807972
+        ],
+        "type": "Point"
+      },
+      "id": "2fe55d01da7011cf189af9724b86262e"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "junction": 12
+      },
+      "geometry": {
+        "coordinates": [
+          144.962471,
+          -37.807986
+        ],
+        "type": "Point"
+      },
+      "id": "31b1ff41333b7fcd1a3e42a574f46a94"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Vending Machine 2",
+        "marker": "Vending Machine 2"
+      },
+      "geometry": {
+        "coordinates": [
+          144.962858,
+          -37.808551
+        ],
+        "type": "Point"
+      },
+      "id": "32e808518605a46a93dffb79b2d08a83"
+    },
+    {
+      "type": "Feature",
+      "properties": {},
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              144.962621,
+              -37.808217
+            ],
+            [
+              144.96274,
+              -37.808124
+            ],
+            [
+              144.962798,
+              -37.808236
+            ],
+            [
+              144.962751,
+              -37.808298
+            ],
+            [
+              144.962686,
+              -37.808317
+            ],
+            [
+              144.962662,
+              -37.808308
+            ],
+            [
+              144.962621,
+              -37.808217
+            ]
+          ]
+        ],
+        "type": "Polygon"
+      },
+      "id": "3557726acd19bea5a6c4d55a2dc13b8f"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "junction": 11
+      },
+      "geometry": {
+        "coordinates": [
+          144.962497,
+          -37.808046
+        ],
+        "type": "Point"
+      },
+      "id": "3767e53eae5f93525b798d32e1dd12cf"
+    },
+    {
+      "type": "Feature",
+      "properties": {},
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              144.962482,
+              -37.807956
+            ],
+            [
+              144.962517,
+              -37.808027
+            ],
+            [
+              144.962645,
+              -37.807991
+            ],
+            [
+              144.962602,
+              -37.807924
+            ],
+            [
+              144.962482,
+              -37.807956
+            ]
+          ]
+        ],
+        "type": "Polygon"
+      },
+      "id": "3c1e27a1a40fd8f63e2f14495ce1dfb4"
+    },
+    {
+      "type": "Feature",
+      "properties": {},
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              144.96283,
+              -37.808418
+            ],
+            [
+              144.962786,
+              -37.80843
+            ],
+            [
+              144.962749,
+              -37.808337
+            ],
+            [
+              144.962912,
+              -37.808298
+            ],
+            [
+              144.962926,
+              -37.808343
+            ],
+            [
+              144.962811,
+              -37.808379
+            ],
+            [
+              144.96283,
+              -37.808418
+            ]
+          ]
+        ],
+        "type": "Polygon"
+      },
+      "id": "3fff3fe6738d6671ec3785fb01dd2868"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker": "Games Space"
+      },
+      "geometry": {
+        "coordinates": [
+          144.96264,
+          -37.808118
+        ],
+        "type": "Point"
+      },
+      "id": "41118d49d7f8f6d26fa21d3d56475985"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker": "Toilet"
+      },
+      "geometry": {
+        "coordinates": [
+          144.962603,
+          -37.808621
+        ],
+        "type": "Point"
+      },
+      "id": "4120ce39f6cda9246c759ff98d6153a6"
+    },
+    {
+      "type": "Feature",
+      "properties": {},
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              144.962873,
+              -37.808238
+            ],
+            [
+              144.962828,
+              -37.808186
+            ],
+            [
+              144.962902,
+              -37.808152
+            ],
+            [
+              144.962873,
+              -37.808238
+            ]
+          ]
+        ],
+        "type": "Polygon"
+      },
+      "id": "41a31fc7e37a8a077723e9f977982cc1"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker": "Lecture Theatre 1"
+      },
+      "geometry": {
+        "coordinates": [
+          144.962807,
+          -37.807941
+        ],
+        "type": "Point"
+      },
+      "id": "4360108cf4b5a1c0e3213bfb4eda1f49"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "perimeter": 8
+      },
+      "geometry": {
+        "coordinates": [
+          144.962359,
+          -37.808236
+        ],
+        "type": "Point"
+      },
+      "id": "4c07b3f7b0d4b5ca06532c2911d4b8cc"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "junction": 22
+      },
+      "geometry": {
+        "coordinates": [
+          144.962365,
+          -37.80839
+        ],
+        "type": "Point"
+      },
+      "id": "4c1a10eb724fd9e5071f2a31c8061359"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Vending Machine 1",
+        "marker": "Vending Machine 1"
+      },
+      "geometry": {
+        "coordinates": [
+          144.962649,
+          -37.80792
+        ],
+        "type": "Point"
+      },
+      "id": "4d4a735539b6020962a8b5661f50b76f"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "junction": 4
+      },
+      "geometry": {
+        "coordinates": [
+          144.962651,
+          -37.808419
+        ],
+        "type": "Point"
+      },
+      "id": "4fbcc7dc1dd038e30c43b0c0be6eface"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "perimeter": 10
+      },
+      "geometry": {
+        "coordinates": [
+          144.962972,
+          -37.808097
+        ],
+        "type": "Point"
+      },
+      "id": "548ec8887bbe40694860f3c0ab0fe64c"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "junction": 3
+      },
+      "geometry": {
+        "coordinates": [
+          144.962825,
+          -37.80855
+        ],
+        "type": "Point"
+      },
+      "id": "54d806f290fec12fd515afbaa7135b21"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "perimeter": 6
+      },
+      "geometry": {
+        "coordinates": [
+          144.962249,
+          -37.808671
+        ],
+        "type": "Point"
+      },
+      "id": "5c277d7768183cd9274d2ab829286f1a"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker": "Smoking Zone"
+      },
+      "geometry": {
+        "coordinates": [
+          144.962996,
+          -37.808118
+        ],
+        "type": "Point"
+      },
+      "id": "5c5fab61d78381290be380409e3d6899"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "junction": 9
+      },
+      "geometry": {
+        "coordinates": [
+          144.962543,
+          -37.80821
+        ],
+        "type": "Point"
+      },
+      "id": "5e4bcf65dbaf4678ac6e96f11dc71c30"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "junction": 1
+      },
+      "geometry": {
+        "coordinates": [
+          144.962732,
+          -37.808323
+        ],
+        "type": "Point"
+      },
+      "id": "5f1e74868fb339cbd9e05f2df657f5fd"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "junction": 27
+      },
+      "geometry": {
+        "coordinates": [
+          144.962784,
+          -37.808481
+        ],
+        "type": "Point"
+      },
+      "id": "5f5f1ad9a8b0432a0b63df73a94f9bb4"
+    },
+    {
+      "type": "Feature",
+      "properties": {},
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              144.962705,
+              -37.808338
+            ],
+            [
+              144.962724,
+              -37.808352
+            ],
+            [
+              144.962701,
+              -37.808369
+            ],
+            [
+              144.962731,
+              -37.808389
+            ],
+            [
+              144.962711,
+              -37.808403
+            ],
+            [
+              144.962676,
+              -37.80838
+            ],
+            [
+              144.962659,
+              -37.808392
+            ],
+            [
+              144.962638,
+              -37.808377
+            ],
+            [
+              144.962656,
+              -37.808363
+            ],
+            [
+              144.962636,
+              -37.808345
+            ],
+            [
+              144.96264,
+              -37.808343
+            ],
+            [
+              144.962652,
+              -37.808336
+            ],
+            [
+              144.96266,
+              -37.808332
+            ],
+            [
+              144.962684,
+              -37.80835
+            ],
+            [
+              144.962705,
+              -37.808338
+            ]
+          ]
+        ],
+        "type": "Polygon"
+      },
+      "id": "614b23f946d886f2479a73a8856cc90c"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "perimeter": 7
+      },
+      "geometry": {
+        "coordinates": [
+          144.962071,
+          -37.808326
+        ],
+        "type": "Point"
+      },
+      "id": "65363133a0352b3b0bbed1b769d8ae8c"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Interactive Theatre 1"
+      },
+      "geometry": {
+        "coordinates": [
+          144.962582,
+          -37.808009
+        ],
+        "type": "Point"
+      },
+      "id": "6917fe381f311f34aa504d3fb10d01e3"
+    },
+    {
+      "type": "Feature",
+      "properties": {},
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              144.962493,
+              -37.808519
+            ],
+            [
+              144.962627,
+              -37.808486
+            ],
+            [
+              144.962595,
+              -37.808322
+            ],
+            [
+              144.962562,
+              -37.808378
+            ],
+            [
+              144.962437,
+              -37.808403
+            ],
+            [
+              144.962493,
+              -37.808519
+            ]
+          ]
+        ],
+        "type": "Polygon"
+      },
+      "id": "6a56c924469b8d622b489a9d659dcbaa"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "perimeter": 12
+      },
+      "geometry": {
+        "coordinates": [
+          144.963105,
+          -37.80829
+        ],
+        "type": "Point"
+      },
+      "id": "7258d5b8b3be74d76896e4c2671cb2a2"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "perimeter": 0
+      },
+      "geometry": {
+        "coordinates": [
+          144.962851,
+          -37.807847
+        ],
+        "type": "Point"
+      },
+      "id": "77019b5f4979e714cba4e50baabb7e3c"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "junction": 0
+      },
+      "geometry": {
+        "coordinates": [
+          144.962858,
+          -37.808289
+        ],
+        "type": "Point"
+      },
+      "id": "779a349f3a6c6baf2db47677afe90a5c"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Study Area 1"
+      },
+      "geometry": {
+        "coordinates": [
+          144.962868,
+          -37.808068
+        ],
+        "type": "Point"
+      },
+      "id": "7a2b02695317bf76615cf61cac7cc86f"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Little Rogue Cafe"
+      },
+      "geometry": {
+        "coordinates": [
+          144.962935,
+          -37.808187
+        ],
+        "type": "Point"
+      },
+      "id": "7b0b63f6d44d8f969f859b9e711ee263"
+    },
+    {
+      "type": "Feature",
+      "properties": {},
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              144.962924,
+              -37.808139
+            ],
+            [
+              144.962937,
+              -37.808165
+            ],
+            [
+              144.962971,
+              -37.808158
+            ],
+            [
+              144.962953,
+              -37.808127
+            ],
+            [
+              144.962924,
+              -37.808139
+            ]
+          ]
+        ],
+        "type": "Polygon"
+      },
+      "id": "7e1e9e420bcd228322de7c9532f5e021"
+    },
+    {
+      "type": "Feature",
+      "properties": {},
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              144.962382,
+              -37.808284
+            ],
+            [
+              144.96248,
+              -37.808252
+            ],
+            [
+              144.962567,
+              -37.808273
+            ],
+            [
+              144.962594,
+              -37.808323
+            ],
+            [
+              144.96256,
+              -37.808376
+            ],
+            [
+              144.962438,
+              -37.808403
+            ],
+            [
+              144.962382,
+              -37.808284
+            ]
+          ]
+        ],
+        "type": "Polygon"
+      },
+      "id": "7f05ba18361f182c6ccdcc2a0c26cb19"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Games Space"
+      },
+      "geometry": {
+        "coordinates": [
+          144.962706,
+          -37.808084
+        ],
+        "type": "Point"
+      },
+      "id": "7f953971d64b664ae65ff6d3698d2617"
+    },
+    {
+      "type": "Feature",
+      "properties": {},
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              144.962587,
+              -37.808568
+            ],
+            [
+              144.962603,
+              -37.808594
+            ],
+            [
+              144.962786,
+              -37.808546
+            ],
+            [
+              144.962716,
+              -37.808423
+            ],
+            [
+              144.962676,
+              -37.808431
+            ],
+            [
+              144.962731,
+              -37.808533
+            ],
+            [
+              144.962587,
+              -37.808568
+            ]
+          ]
+        ],
+        "type": "Polygon"
+      },
+      "id": "8539132b8b3307400fb03ae2687704e7"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "perimeter": 1
+      },
+      "geometry": {
+        "coordinates": [
+          144.963066,
+          -37.808304
+        ],
+        "type": "Point"
+      },
+      "id": "89b8fc26d1096056222d356b0b4d96c3"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "junction": 13
+      },
+      "geometry": {
+        "coordinates": [
+          144.962716,
+          -37.808024
+        ],
+        "type": "Point"
+      },
+      "id": "8c4f87bf74f6255a877a32e30fba8787"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Study Area 2"
+      },
+      "geometry": {
+        "coordinates": [
+          144.962572,
+          -37.808541
+        ],
+        "type": "Point"
+      },
+      "id": "97a50b1ad2dde7b1c955eb2eea917328"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "perimeter": 2
+      },
+      "geometry": {
+        "coordinates": [
+          144.962814,
+          -37.808381
+        ],
+        "type": "Point"
+      },
+      "id": "97d5cc368d56af2d61a54c575e5ca933"
+    },
+    {
+      "type": "Feature",
+      "properties": {},
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              144.962536,
+              -37.80861
+            ],
+            [
+              144.962558,
+              -37.808661
+            ],
+            [
+              144.962672,
+              -37.808629
+            ],
+            [
+              144.962662,
+              -37.808582
+            ],
+            [
+              144.962536,
+              -37.80861
+            ]
+          ]
+        ],
+        "type": "Polygon"
+      },
+      "id": "9b2c8496dd5892cec34459bb0fb9f6aa"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Lectorial 1"
+      },
+      "geometry": {
+        "coordinates": [
+          144.962679,
+          -37.808039
+        ],
+        "type": "Point"
+      },
+      "id": "9ded652dd5a643d3a08d48f9d0c5a8de"
+    },
+    {
+      "type": "Feature",
+      "properties": {},
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              144.962972,
+              -37.808102
+            ],
+            [
+              144.962991,
+              -37.808142
+            ],
+            [
+              144.963024,
+              -37.808135
+            ],
+            [
+              144.963,
+              -37.808096
+            ],
+            [
+              144.962972,
+              -37.808102
+            ]
+          ]
+        ],
+        "type": "Polygon"
+      },
+      "id": "9e4e7c11e42cc86152c54de245caf730"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Smoking Zone"
+      },
+      "geometry": {
+        "coordinates": [
+          144.96301,
+          -37.808138
+        ],
+        "type": "Point"
+      },
+      "id": "9e8c2854d0e132f6f111d877c2e656f5"
+    },
+    {
+      "type": "Feature",
+      "properties": {},
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              144.962076,
+              -37.808328
+            ],
+            [
+              144.962204,
+              -37.80859
+            ],
+            [
+              144.962381,
+              -37.808556
+            ],
+            [
+              144.962254,
+              -37.808272
+            ],
+            [
+              144.962076,
+              -37.808328
+            ]
+          ]
+        ],
+        "type": "Polygon"
+      },
+      "id": "9f7286e169c7121d5646f26be2028b12"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Toilet"
+      },
+      "geometry": {
+        "coordinates": [
+          144.962667,
+          -37.808601
+        ],
+        "type": "Point"
+      },
+      "id": "a09525c5af50a33d5191e6da6f9afb9b"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "junction": 25
+      },
+      "geometry": {
+        "coordinates": [
+          144.963035,
+          -37.808194
+        ],
+        "type": "Point"
+      },
+      "id": "a257f624d5d6bb952272cadaad6d33bb"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker": "Basketball Court"
+      },
+      "geometry": {
+        "coordinates": [
+          144.962214,
+          -37.808433
+        ],
+        "type": "Point"
+      },
+      "id": "a47a1df5c544dfcb23bae40ca75b7357"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Conversational Area"
+      },
+      "geometry": {
+        "coordinates": [
+          144.962873,
+          -37.808166
+        ],
+        "type": "Point"
+      },
+      "id": "aa35ec3017ae95bb22f33f91a5d30b5d"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Informational Hub"
+      },
+      "geometry": {
+        "coordinates": [
+          144.962776,
+          -37.80819
+        ],
+        "type": "Point"
+      },
+      "id": "abd6b4c20c3a75405f68bf5e8b678bc9"
+    },
+    {
+      "type": "Feature",
+      "properties": {},
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              144.962849,
+              -37.807848
+            ],
+            [
+              144.962692,
+              -37.807895
+            ],
+            [
+              144.96274,
+              -37.808009
+            ],
+            [
+              144.96287,
+              -37.808031
+            ],
+            [
+              144.962926,
+              -37.808019
+            ],
+            [
+              144.962849,
+              -37.807848
+            ]
+          ]
+        ],
+        "type": "Polygon"
+      },
+      "id": "ae50e0ffc783300fa06f27a80c9598e3"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "junction": 23
+      },
+      "geometry": {
+        "coordinates": [
+          144.962438,
+          -37.808554
+        ],
+        "type": "Point"
+      },
+      "id": "ae61125b58e91068fc9187c39f9d99d7"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "junction": 10
+      },
+      "geometry": {
+        "coordinates": [
+          144.962546,
+          -37.808139
+        ],
+        "type": "Point"
+      },
+      "id": "b16788b5e01ef54f94b5c84ddbf03429"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "junction": 5
+      },
+      "geometry": {
+        "coordinates": [
+          144.962674,
+          -37.808511
+        ],
+        "type": "Point"
+      },
+      "id": "b5104218531578396d057ca33dd2a149"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "junction": 18
+      },
+      "geometry": {
+        "coordinates": [
+          144.962693,
+          -37.807988
+        ],
+        "type": "Point"
+      },
+      "id": "b950ff129e10ceb1c44bde8fa7acb856"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker": "Lectorial 2"
+      },
+      "geometry": {
+        "coordinates": [
+          144.962489,
+          -37.808317
+        ],
+        "type": "Point"
+      },
+      "id": "bbceddc48d61cbaeeb3370f2225370db"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker": "Lectorial 1"
+      },
+      "geometry": {
+        "coordinates": [
+          144.962616,
+          -37.808068
+        ],
+        "type": "Point"
+      },
+      "id": "bf44363bee8246997bf0300f24fb2d14"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "junction": 6
+      },
+      "geometry": {
+        "coordinates": [
+          144.962621,
+          -37.808369
+        ],
+        "type": "Point"
+      },
+      "id": "c127f60eee67f7b6479551614932d5f5"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "junction": 15
+      },
+      "geometry": {
+        "coordinates": [
+          144.962775,
+          -37.80813
+        ],
+        "type": "Point"
+      },
+      "id": "c1682e65b7ef7a908d9a5e83118db09e"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "junction": 21
+      },
+      "geometry": {
+        "coordinates": [
+          144.962376,
+          -37.808261
+        ],
+        "type": "Point"
+      },
+      "id": "c19aaea2d7d9bfeb9dc84e7f3c0f7868"
+    },
+    {
+      "type": "Feature",
+      "properties": {},
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              144.962561,
+              -37.808113
+            ],
+            [
+              144.962535,
+              -37.808062
+            ],
+            [
+              144.962668,
+              -37.808022
+            ],
+            [
+              144.96269,
+              -37.808059
+            ],
+            [
+              144.962561,
+              -37.808113
+            ]
+          ]
+        ],
+        "type": "Polygon"
+      },
+      "id": "c389ef2780a83d472e4b47c8289400cb"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "junction": 19
+      },
+      "geometry": {
+        "coordinates": [
+          144.962903,
+          -37.808134
+        ],
+        "type": "Point"
+      },
+      "id": "c481697025c1d6307321cb0cf3de9ffc"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "junction": 7
+      },
+      "geometry": {
+        "coordinates": [
+          144.962631,
+          -37.808321
+        ],
+        "type": "Point"
+      },
+      "id": "ca9538c61e15061b20664f6c12d45403"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker": "Games Space"
+      },
+      "geometry": {
+        "coordinates": [
+          144.962707,
+          -37.808225
+        ],
+        "type": "Point"
+      },
+      "id": "cb91b2309a225a51e49f4179e8943b21"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Lecture Theatre 1"
+      },
+      "geometry": {
+        "coordinates": [
+          144.962719,
+          -37.807955
+        ],
+        "type": "Point"
+      },
+      "id": "cbe19011099d4dfaabb9f6a784a7d719"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker": "Conversational Area"
+      },
+      "geometry": {
+        "coordinates": [
+          144.962867,
+          -37.808193
+        ],
+        "type": "Point"
+      },
+      "id": "ccb47c314bba221fd679517dadff7e5e"
+    },
+    {
+      "type": "Feature",
+      "properties": {},
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              144.962605,
+              -37.808197
+            ],
+            [
+              144.962723,
+              -37.808112
+            ],
+            [
+              144.96269,
+              -37.808059
+            ],
+            [
+              144.96256,
+              -37.808113
+            ],
+            [
+              144.962605,
+              -37.808197
+            ]
+          ]
+        ],
+        "type": "Polygon"
+      },
+      "id": "ce24d9f2f494aa00d086627e5456b5ca"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "perimeter": 5
+      },
+      "geometry": {
+        "coordinates": [
+          144.96252,
+          -37.808602
+        ],
+        "type": "Point"
+      },
+      "id": "cf62aaf5daf6f694688f26293454274e"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Lecture Theatre 2"
+      },
+      "geometry": {
+        "coordinates": [
+          144.962444,
+          -37.80799
+        ],
+        "type": "Point"
+      },
+      "id": "d1bddf60fd0c139f995875ea91c5ce1a"
+    },
+    {
+      "type": "Feature",
+      "properties": {},
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              144.962226,
+              -37.808611
+            ],
+            [
+              144.96225,
+              -37.808663
+            ],
+            [
+              144.962405,
+              -37.808626
+            ],
+            [
+              144.962379,
+              -37.808579
+            ],
+            [
+              144.962226,
+              -37.808611
+            ]
+          ]
+        ],
+        "type": "Polygon"
+      },
+      "id": "d340e5d7bb08022a713900866ec4f12e"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "perimeter": 9
+      },
+      "geometry": {
+        "coordinates": [
+          144.962258,
+          -37.80802
+        ],
+        "type": "Point"
+      },
+      "id": "d39f1e943ddfed51d4c3be849e673424"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "junction": 17
+      },
+      "geometry": {
+        "coordinates": [
+          144.962902,
+          -37.808046
+        ],
+        "type": "Point"
+      },
+      "id": "dae23028e04abf6cb407169493a81772"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "junction": 8
+      },
+      "geometry": {
+        "coordinates": [
+          144.962592,
+          -37.808228
+        ],
+        "type": "Point"
+      },
+      "id": "dddbf446a6323c7ec479dd5bc6812093"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "perimeter": 4
+      },
+      "geometry": {
+        "coordinates": [
+          144.962559,
+          -37.808664
+        ],
+        "type": "Point"
+      },
+      "id": "df28a31c3844e16814ef4c757294e477"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "junction": 16
+      },
+      "geometry": {
+        "coordinates": [
+          144.962917,
+          -37.808085
+        ],
+        "type": "Point"
+      },
+      "id": "df6b24f1faec18c0f508341079146fab"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker": "Study Area 2"
+      },
+      "geometry": {
+        "coordinates": [
+          144.962539,
+          -37.808551
+        ],
+        "type": "Point"
+      },
+      "id": "e0699ca2b3651cec2347d70d95911b07"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "junction": 20
+      },
+      "geometry": {
+        "coordinates": [
+          144.962861,
+          -37.808148
+        ],
+        "type": "Point"
+      },
+      "id": "e4678e241e99671539c640b3e9380998"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Lecture Theatre 3"
+      },
+      "geometry": {
+        "coordinates": [
+          144.962616,
+          -37.808424
+        ],
+        "type": "Point"
+      },
+      "id": "e519734af1c1a48c7a2b6b79d83c22ad"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "perimeter": 11
+      },
+      "geometry": {
+        "coordinates": [
+          144.963003,
+          -37.808091
+        ],
+        "type": "Point"
+      },
+      "id": "e5783c5ffe2642528e504bd9db9c7ea3"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "junction": 14
+      },
+      "geometry": {
+        "coordinates": [
+          144.962751,
+          -37.808101
+        ],
+        "type": "Point"
+      },
+      "id": "e74d51491ba15c987eb32e0da971b2ac"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Basketball Court"
+      },
+      "geometry": {
+        "coordinates": [
+          144.962314,
+          -37.808401
+        ],
+        "type": "Point"
+      },
+      "id": "eaa9ee9dbe2022d1141cc743dbe50273"
+    },
+    {
+      "type": "Feature",
+      "properties": {},
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              144.962496,
+              -37.808518
+            ],
+            [
+              144.962532,
+              -37.808607
+            ],
+            [
+              144.962602,
+              -37.808596
+            ],
+            [
+              144.96255,
+              -37.808506
+            ],
+            [
+              144.962496,
+              -37.808518
+            ]
+          ]
+        ],
+        "type": "Polygon"
+      },
+      "id": "eb0600f2e9549629e2a1782d3e87850b"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker": "Little Rogue Cafe"
+      },
+      "geometry": {
+        "coordinates": [
+          144.962951,
+          -37.808219
+        ],
+        "type": "Point"
+      },
+      "id": "fbaeb85f36ac61513d73eb6a026f0f3a"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "perimeter": 3
+      },
+      "geometry": {
+        "coordinates": [
+          144.962898,
+          -37.808563
+        ],
+        "type": "Point"
+      },
+      "id": "fda862b73b4a1cacb07e1448f663cf2e"
+    }
+  ],
+  "type": "FeatureCollection"
+}

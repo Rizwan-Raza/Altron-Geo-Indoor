@@ -1,0 +1,22 @@
+<component name="libraryTable">
+  <library name="Gradle: com.mapbox.mapboxsdk:mapbox-android-plugin-locationlayer:0.5.3@aar">
+    <ANNOTATIONS>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/2cb54859905c1801ab90899ae35e4c54/jetified-mapbox-android-plugin-locationlayer-0.5.3/annotations.zip!/" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/ded740fbd798820ca165b29c4fa9bf82/jetified-mapbox-android-plugin-locationlayer-0.5.3/annotations.zip!/" />
+    </ANNOTATIONS>
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/2cb54859905c1801ab90899ae35e4c54/jetified-mapbox-android-plugin-locationlayer-0.5.3/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/2cb54859905c1801ab90899ae35e4c54/jetified-mapbox-android-plugin-locationlayer-0.5.3/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/2cb54859905c1801ab90899ae35e4c54/jetified-mapbox-android-plugin-locationlayer-0.5.3/AndroidManifest.xml" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/ded740fbd798820ca165b29c4fa9bf82/jetified-mapbox-android-plugin-locationlayer-0.5.3/AndroidManifest.xml" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/ded740fbd798820ca165b29c4fa9bf82/jetified-mapbox-android-plugin-locationlayer-0.5.3/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/ded740fbd798820ca165b29c4fa9bf82/jetified-mapbox-android-plugin-locationlayer-0.5.3/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.mapbox.mapboxsdk/mapbox-android-plugin-locationlayer/0.5.3/98496326fb5d1cc9416eae650043d50dd0e1e71f/mapbox-android-plugin-locationlayer-0.5.3-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.mapbox.mapboxsdk/mapbox-android-plugin-locationlayer/0.5.3/b9b7f6ef2f9fd8b13ec49d1d176d89de4ae85b08/mapbox-android-plugin-locationlayer-0.5.3-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

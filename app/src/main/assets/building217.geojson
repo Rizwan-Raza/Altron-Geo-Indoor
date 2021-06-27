@@ -1,0 +1,1188 @@
+{
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "perimeter": 5
+      },
+      "geometry": {
+        "coordinates": [
+          145.060497,
+          -37.679998
+        ],
+        "type": "Point"
+      },
+      "id": "0252bd209472082e3356c6c4f684c3db"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker": "lab"
+      },
+      "geometry": {
+        "coordinates": [
+          145.060202,
+          -37.679727
+        ],
+        "type": "Point"
+      },
+      "id": "0e37228e0fd0b4eff8574beffe654794"
+    },
+    {
+      "type": "Feature",
+      "properties": {},
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              145.060287,
+              -37.679997
+            ],
+            [
+              145.060283,
+              -37.680019
+            ],
+            [
+              145.060353,
+              -37.680028
+            ],
+            [
+              145.060355,
+              -37.680005
+            ],
+            [
+              145.060287,
+              -37.679997
+            ]
+          ]
+        ],
+        "type": "Polygon"
+      },
+      "id": "277c173101036891001fe23ee799d928"
+    },
+    {
+      "type": "Feature",
+      "properties": {},
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              145.060165,
+              -37.67968
+            ],
+            [
+              145.06027,
+              -37.679691
+            ],
+            [
+              145.060256,
+              -37.679782
+            ],
+            [
+              145.060149,
+              -37.679771
+            ],
+            [
+              145.060165,
+              -37.67968
+            ]
+          ]
+        ],
+        "type": "Polygon"
+      },
+      "id": "299983ab7a9be435da1ae3d36d3da113"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "junction": 15
+      },
+      "geometry": {
+        "coordinates": [
+          145.060302,
+          -37.679852
+        ],
+        "type": "Point"
+      },
+      "id": "2c50793a8b0190d37a3c8b3d6285e5e1"
+    },
+    {
+      "type": "Feature",
+      "properties": {},
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              145.060488,
+              -37.680056
+            ],
+            [
+              145.060449,
+              -37.680051
+            ],
+            [
+              145.060436,
+              -37.680125
+            ],
+            [
+              145.060474,
+              -37.68013
+            ],
+            [
+              145.060488,
+              -37.680056
+            ]
+          ]
+        ],
+        "type": "Polygon"
+      },
+      "id": "2f28acbd847f7b2fef20d8c18853678e"
+    },
+    {
+      "type": "Feature",
+      "properties": {},
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              145.060221,
+              -37.679863
+            ],
+            [
+              145.060216,
+              -37.679896
+            ],
+            [
+              145.060259,
+              -37.6799
+            ],
+            [
+              145.060263,
+              -37.679868
+            ],
+            [
+              145.060221,
+              -37.679863
+            ]
+          ]
+        ],
+        "type": "Polygon"
+      },
+      "id": "30bd3910ccba829fab36c1586e61aedb"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "toilet"
+      },
+      "geometry": {
+        "coordinates": [
+          145.06024,
+          -37.680013
+        ],
+        "type": "Point"
+      },
+      "id": "3404ca482764f0c605b27eb9d7caa12c"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "junction": 16
+      },
+      "geometry": {
+        "coordinates": [
+          145.060293,
+          -37.679986
+        ],
+        "type": "Point"
+      },
+      "id": "35c81d297432d81bc9522570a1103f6b"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "junction": 0
+      },
+      "geometry": {
+        "coordinates": [
+          145.06028,
+          -37.680087
+        ],
+        "type": "Point"
+      },
+      "id": "393096a2f0618f3915f8bebccb4b220a"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker": "hub"
+      },
+      "geometry": {
+        "coordinates": [
+          145.060318,
+          -37.68001
+        ],
+        "type": "Point"
+      },
+      "id": "3a2a7546c3b221a8f59cbbd7ab475c89"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "perimeter": 1
+      },
+      "geometry": {
+        "coordinates": [
+          145.060369,
+          -37.679699
+        ],
+        "type": "Point"
+      },
+      "id": "3ae566bbe68b7ce91a7b12c067b5a55d"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker": "lecture2"
+      },
+      "geometry": {
+        "coordinates": [
+          145.060252,
+          -37.679923
+        ],
+        "type": "Point"
+      },
+      "id": "41dd872a01e00f3e5d7f7cd06e4abf71"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "lecture3"
+      },
+      "geometry": {
+        "coordinates": [
+          145.060304,
+          -37.679849
+        ],
+        "type": "Point"
+      },
+      "id": "493619a187cfc7e87347012762565062"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "junction": 2
+      },
+      "geometry": {
+        "coordinates": [
+          145.060322,
+          -37.68003
+        ],
+        "type": "Point"
+      },
+      "id": "49977410097b495782bc87ea9320682b"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "junction": 13
+      },
+      "geometry": {
+        "coordinates": [
+          145.060279,
+          -37.679749
+        ],
+        "type": "Point"
+      },
+      "id": "4b4fba4e0fcac1775dc57c9ce337f7e7"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "junction": 5
+      },
+      "geometry": {
+        "coordinates": [
+          145.060295,
+          -37.679974
+        ],
+        "type": "Point"
+      },
+      "id": "4d60f4cf95b814d916cec7bc71c8a412"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "studyRoom"
+      },
+      "geometry": {
+        "coordinates": [
+          145.060428,
+          -37.680016
+        ],
+        "type": "Point"
+      },
+      "id": "51a3eaac34cddd9b788a509fb67125cc"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker": "merch"
+      },
+      "geometry": {
+        "coordinates": [
+          145.060217,
+          -37.680049
+        ],
+        "type": "Point"
+      },
+      "id": "532dec386a78832ded914cfe13fe71df"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "lab"
+      },
+      "geometry": {
+        "coordinates": [
+          145.060262,
+          -37.679746
+        ],
+        "type": "Point"
+      },
+      "id": "547211c59fd23ffdb9e4deea1706457e"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker": "studyRoom"
+      },
+      "geometry": {
+        "coordinates": [
+          145.060473,
+          -37.680014
+        ],
+        "type": "Point"
+      },
+      "id": "584b86e27b54a424f9edb39cf87718ef"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "junction": 11
+      },
+      "geometry": {
+        "coordinates": [
+          145.060271,
+          -37.679805
+        ],
+        "type": "Point"
+      },
+      "id": "5c3cffadbbc5be19d2f6d7c6cf527466"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "staffRoom"
+      },
+      "geometry": {
+        "coordinates": [
+          145.060295,
+          -37.679749
+        ],
+        "type": "Point"
+      },
+      "id": "5c4a6319c8e1845dddf2010dcf5fcbd1"
+    },
+    {
+      "type": "Feature",
+      "properties": {},
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              145.060315,
+              -37.679898
+            ],
+            [
+              145.060422,
+              -37.679908
+            ],
+            [
+              145.060409,
+              -37.679989
+            ],
+            [
+              145.060303,
+              -37.679975
+            ],
+            [
+              145.060315,
+              -37.679898
+            ]
+          ]
+        ],
+        "type": "Polygon"
+      },
+      "id": "5d98520a1bf9fe71ce1591764f601a6c"
+    },
+    {
+      "type": "Feature",
+      "properties": {},
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              145.060297,
+              -37.67989
+            ],
+            [
+              145.060315,
+              -37.679892
+            ],
+            [
+              145.060303,
+              -37.679975
+            ],
+            [
+              145.060284,
+              -37.679973
+            ],
+            [
+              145.060297,
+              -37.67989
+            ]
+          ]
+        ],
+        "type": "Polygon"
+      },
+      "id": "61ef739e141e269ac8ad381d30641f9d"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Merch Store"
+      },
+      "geometry": {
+        "coordinates": [
+          145.06023,
+          -37.680082
+        ],
+        "type": "Point"
+      },
+      "id": "63c281a1b81d628f856b37efeaa63d99"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "hub"
+      },
+      "geometry": {
+        "coordinates": [
+          145.060323,
+          -37.680023
+        ],
+        "type": "Point"
+      },
+      "id": "65b2f4ae333dfe7dcca7d4ec209acf63"
+    },
+    {
+      "type": "Feature",
+      "properties": {},
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              145.060411,
+              -37.67999
+            ],
+            [
+              145.060497,
+              -37.679999
+            ],
+            [
+              145.060487,
+              -37.680055
+            ],
+            [
+              145.060449,
+              -37.680051
+            ],
+            [
+              145.060457,
+              -37.68002
+            ],
+            [
+              145.060405,
+              -37.680014
+            ],
+            [
+              145.060411,
+              -37.67999
+            ]
+          ]
+        ],
+        "type": "Polygon"
+      },
+      "id": "66178213f69cb44c0bf5d6d9a3b1c4eb"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "junction": 12
+      },
+      "geometry": {
+        "coordinates": [
+          145.060272,
+          -37.679785
+        ],
+        "type": "Point"
+      },
+      "id": "6fd12b3e21f6fb06b7efad11f7f0c0d2"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "entrance"
+      },
+      "geometry": {
+        "coordinates": [
+          145.060278,
+          -37.680108
+        ],
+        "type": "Point"
+      },
+      "id": "7957560cb99ef47426c9067aa7e9e837"
+    },
+    {
+      "type": "Feature",
+      "properties": {},
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              145.060215,
+              -37.679896
+            ],
+            [
+              145.060294,
+              -37.679905
+            ],
+            [
+              145.060286,
+              -37.679953
+            ],
+            [
+              145.060208,
+              -37.679943
+            ],
+            [
+              145.060215,
+              -37.679896
+            ]
+          ]
+        ],
+        "type": "Polygon"
+      },
+      "id": "83da8206cc90ac7bd6b139920e7f4954"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "perimeter": 7
+      },
+      "geometry": {
+        "coordinates": [
+          145.060181,
+          -37.680097
+        ],
+        "type": "Point"
+      },
+      "id": "84e9d288ced09c5940124512b0f7d94c"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker": "cafeteria"
+      },
+      "geometry": {
+        "coordinates": [
+          145.060464,
+          -37.680089
+        ],
+        "type": "Point"
+      },
+      "id": "884bb21030d12a6468b0fb2ac3cc6119"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "perimeter": 4
+      },
+      "geometry": {
+        "coordinates": [
+          145.060411,
+          -37.679987
+        ],
+        "type": "Point"
+      },
+      "id": "8ef0b2e69800166796dc4ffe8e52943c"
+    },
+    {
+      "type": "Feature",
+      "properties": {},
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              145.060263,
+              -37.679869
+            ],
+            [
+              145.0603,
+              -37.679873
+            ],
+            [
+              145.060295,
+              -37.679904
+            ],
+            [
+              145.060258,
+              -37.679901
+            ],
+            [
+              145.060263,
+              -37.679869
+            ]
+          ]
+        ],
+        "type": "Polygon"
+      },
+      "id": "92574b329fd45bd7cfb29a4fa2d60558"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker": "tut2"
+      },
+      "geometry": {
+        "coordinates": [
+          145.060239,
+          -37.679882
+        ],
+        "type": "Point"
+      },
+      "id": "9551a5583a5e119156446922566323c0"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker": "lecture1"
+      },
+      "geometry": {
+        "coordinates": [
+          145.06036,
+          -37.679941
+        ],
+        "type": "Point"
+      },
+      "id": "9ecc7d990a4f5f135b466179ae4b3bf7"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "perimeter": 9
+      },
+      "geometry": {
+        "coordinates": [
+          145.060149,
+          -37.67977
+        ],
+        "type": "Point"
+      },
+      "id": "9ee59cd4d24051a720549c7d915a75d8"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker": "lecture3"
+      },
+      "geometry": {
+        "coordinates": [
+          145.060263,
+          -37.679848
+        ],
+        "type": "Point"
+      },
+      "id": "a0411314305a1c18d9103c29ccf8e44a"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker": "corridor",
+        "name": "corridor"
+      },
+      "geometry": {
+        "coordinates": [
+          145.060301,
+          -37.679933
+        ],
+        "type": "Point"
+      },
+      "id": "a1437b610e826986c8ddcbd943980038"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "tut2"
+      },
+      "geometry": {
+        "coordinates": [
+          145.06024,
+          -37.679865
+        ],
+        "type": "Point"
+      },
+      "id": "a207b3c92864c1b5f0bd38a117654c01"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "lecture2"
+      },
+      "geometry": {
+        "coordinates": [
+          145.060249,
+          -37.679948
+        ],
+        "type": "Point"
+      },
+      "id": "a7f1c499cad3de4527393439db636fe3"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "perimeter": 2
+      },
+      "geometry": {
+        "coordinates": [
+          145.060334,
+          -37.679898
+        ],
+        "type": "Point"
+      },
+      "id": "a8eb0bc46fd246ee72d7412516c2bd18"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "junction": 10
+      },
+      "geometry": {
+        "coordinates": [
+          145.060328,
+          -37.679821
+        ],
+        "type": "Point"
+      },
+      "id": "aa20027919376ab967777b346420f8ec"
+    },
+    {
+      "type": "Feature",
+      "properties": {},
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              145.060229,
+              -37.67982
+            ],
+            [
+              145.060307,
+              -37.679828
+            ],
+            [
+              145.060299,
+              -37.679872
+            ],
+            [
+              145.060222,
+              -37.679863
+            ],
+            [
+              145.060229,
+              -37.67982
+            ]
+          ]
+        ],
+        "type": "Polygon"
+      },
+      "id": "b170c187473b06d84c0a7d1b6e544490"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "tut1"
+      },
+      "geometry": {
+        "coordinates": [
+          145.060263,
+          -37.679950
+        ],
+        "type": "Point"
+      },
+      "id": "b6a0b0fc66fd42e7413c8a87daee0fdd"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "junction": 7
+      },
+      "geometry": {
+        "coordinates": [
+          145.060306,
+          -37.679891
+        ],
+        "type": "Point"
+      },
+      "id": "b825184932f0efdccb4ae54a9f7cdcec"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "junction": 6
+      },
+      "geometry": {
+        "coordinates": [
+          145.060248,
+          -37.679985
+        ],
+        "type": "Point"
+      },
+      "id": "b97bf1760fbea68180d0cab0d037a06e"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "junction": 14
+      },
+      "geometry": {
+        "coordinates": [
+          145.06026,
+          -37.68002
+        ],
+        "type": "Point"
+      },
+      "id": "bb841fc97f7480675c3e611ad217e311"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "perimeter": 6
+      },
+      "geometry": {
+        "coordinates": [
+          145.060476,
+          -37.68013
+        ],
+        "type": "Point"
+      },
+      "id": "bbc0b19db16dbbbb15108278eaf60bb3"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "junction": 9
+      },
+      "geometry": {
+        "coordinates": [
+          145.060322,
+          -37.679851
+        ],
+        "type": "Point"
+      },
+      "id": "bc072fb984df84da6d868afd15083779"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "junction": 8
+      },
+      "geometry": {
+        "coordinates": [
+          145.060252,
+          -37.679948
+        ],
+        "type": "Point"
+      },
+      "id": "bf47175decd9aa35e9478b42356e2cb2"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "perimeter": 8
+      },
+      "geometry": {
+        "coordinates": [
+          145.060235,
+          -37.67978
+        ],
+        "type": "Point"
+      },
+      "id": "c3742bef9389b7160c71c498f9625dce"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker": "toilet"
+      },
+      "geometry": {
+        "coordinates": [
+          145.060214,
+          -37.680011
+        ],
+        "type": "Point"
+      },
+      "id": "c4c9dd10c72b758f8ac8cc9af01f595e"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "perimeter": 0
+      },
+      "geometry": {
+        "coordinates": [
+          145.060165,
+          -37.679679
+        ],
+        "type": "Point"
+      },
+      "id": "cf9d137c7d53e3e7e74e739b219e92b2"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "cafeteria"
+      },
+      "geometry": {
+        "coordinates": [
+          145.060441,
+          -37.680098
+        ],
+        "type": "Point"
+      },
+      "id": "d0d835eb645ac6800044cd63ee29d26a"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "lecture1"
+      },
+      "geometry": {
+        "coordinates": [
+          145.060371,
+          -37.679984
+        ],
+        "type": "Point"
+      },
+      "id": "d268dacc3ca91f9481afa8a9985fb4ef"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "junction": 4
+      },
+      "geometry": {
+        "coordinates": [
+          145.060369,
+          -37.68
+        ],
+        "type": "Point"
+      },
+      "id": "d710721e022f70690a74d18586da1523"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "junction": 1
+      },
+      "geometry": {
+        "coordinates": [
+          145.060365,
+          -37.680096
+        ],
+        "type": "Point"
+      },
+      "id": "d8e7cd6f18720441fa0bec24b9785b23"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "perimeter": 3
+      },
+      "geometry": {
+        "coordinates": [
+          145.060422,
+          -37.679907
+        ],
+        "type": "Point"
+      },
+      "id": "e034fb5770b30031d65ef54e7e1569f2"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker": "tut1"
+      },
+      "geometry": {
+        "coordinates": [
+          145.060281,
+          -37.679888
+        ],
+        "type": "Point"
+      },
+      "id": "e20ab633c91551b3479018ccf47cb9af"
+    },
+    {
+      "type": "Feature",
+      "properties": {},
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              145.060368,
+              -37.679701
+            ],
+            [
+              145.06027,
+              -37.679691
+            ],
+            [
+              145.060265,
+              -37.67972
+            ],
+            [
+              145.060299,
+              -37.679724
+            ],
+            [
+              145.060289,
+              -37.679785
+            ],
+            [
+              145.060353,
+              -37.679792
+            ],
+            [
+              145.060368,
+              -37.679701
+            ]
+          ]
+        ],
+        "type": "Polygon"
+      },
+      "id": "e914f30c2b1e8dec7510bcc105b1cd9b"
+    },
+    {
+      "type": "Feature",
+      "properties": {},
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              145.060182,
+              -37.680097
+            ],
+            [
+              145.060195,
+              -37.680021
+            ],
+            [
+              145.06031,
+              -37.680033
+            ],
+            [
+              145.060303,
+              -37.680071
+            ],
+            [
+              145.060232,
+              -37.680064
+            ],
+            [
+              145.060227,
+              -37.680102
+            ],
+            [
+              145.060182,
+              -37.680097
+            ]
+          ]
+        ],
+        "type": "Polygon"
+      },
+      "id": "ea95a7508c0f1828f84687a974c3ce4a"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "junction": 3
+      },
+      "geometry": {
+        "coordinates": [
+          145.060371,
+          -37.68003
+        ],
+        "type": "Point"
+      },
+      "id": "f1438bd70a3d142acae47cbe7919d225"
+    },
+    {
+      "type": "Feature",
+      "properties": {},
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              145.060199,
+              -37.679998
+            ],
+            [
+              145.060194,
+              -37.680021
+            ],
+            [
+              145.060237,
+              -37.680026
+            ],
+            [
+              145.06024,
+              -37.680002
+            ],
+            [
+              145.060199,
+              -37.679998
+            ]
+          ]
+        ],
+        "type": "Polygon"
+      },
+      "id": "f9bd27f1402b223e2bd05ecebb64ede7"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker": "staffRoom"
+      },
+      "geometry": {
+        "coordinates": [
+          145.06033,
+          -37.679732
+        ],
+        "type": "Point"
+      },
+      "id": "ff145b46a9a81ac0ef296d606119dded"
+    }
+  ],
+  "type": "FeatureCollection"
+}

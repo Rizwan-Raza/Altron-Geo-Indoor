@@ -1,0 +1,913 @@
+{
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "junction": 1
+      },
+      "geometry": {
+        "coordinates": [
+          145.06058,
+          -37.679557
+        ],
+        "type": "Point"
+      },
+      "id": "02a727f611026ac9e0ac9251e9e83b84"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "perimeter": 10
+      },
+      "geometry": {
+        "coordinates": [
+          145.060483,
+          -37.679832
+        ],
+        "type": "Point"
+      },
+      "id": "07d8667571facc8befc10359f5b61aba"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "perimeter": 12
+      },
+      "geometry": {
+        "coordinates": [
+          145.060426,
+          -37.679595
+        ],
+        "type": "Point"
+      },
+      "id": "0915e149c65a4b0728a41179a8e5dc01"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Lecture 004"
+      },
+      "geometry": {
+        "coordinates": [
+          145.060395,
+          -37.679535
+        ],
+        "type": "Point"
+      },
+      "id": "1528642a5cd9b3e71524e62d0438fc83"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Tutorial 003"
+      },
+      "geometry": {
+        "coordinates": [
+          145.060575,
+          -37.679709
+        ],
+        "type": "Point"
+      },
+      "id": "1790b3ac2424d80ecc491341b655fcbe"
+    },
+    {
+      "type": "Feature",
+      "properties": {},
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              145.060669,
+              -37.679686
+            ],
+            [
+              145.060582,
+              -37.679676
+            ],
+            [
+              145.060566,
+              -37.679763
+            ],
+            [
+              145.060652,
+              -37.679772
+            ],
+            [
+              145.060669,
+              -37.679686
+            ]
+          ]
+        ],
+        "type": "Polygon"
+      },
+      "id": "19de68c782381eb3b9f7ab87f439ecad"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker": "Information Hub"
+      },
+      "geometry": {
+        "coordinates": [
+          145.060502,
+          -37.679621
+        ],
+        "type": "Point"
+      },
+      "id": "1a23f8747ea44017af92cf9e5c16598b"
+    },
+    {
+      "type": "Feature",
+      "properties": {},
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              145.060232,
+              -37.679571
+            ],
+            [
+              145.06024,
+              -37.67952
+            ],
+            [
+              145.060348,
+              -37.679531
+            ],
+            [
+              145.060339,
+              -37.679583
+            ],
+            [
+              145.060232,
+              -37.679571
+            ]
+          ]
+        ],
+        "type": "Polygon"
+      },
+      "id": "1a2691dca15accc4e0d6ca9c090e4d50"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "junction": 4
+      },
+      "geometry": {
+        "coordinates": [
+          145.060433,
+          -37.679685
+        ],
+        "type": "Point"
+      },
+      "id": "1ba7172862f419bdcf1e72d74c79f71a"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "perimeter": 8
+      },
+      "geometry": {
+        "coordinates": [
+          145.060655,
+          -37.679773
+        ],
+        "type": "Point"
+      },
+      "id": "1e3bb5dab6b59053639ec57539d02406"
+    },
+    {
+      "type": "Feature",
+      "properties": {},
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              145.060258,
+              -37.679408
+            ],
+            [
+              145.060361,
+              -37.67942
+            ],
+            [
+              145.060351,
+              -37.679486
+            ],
+            [
+              145.060247,
+              -37.679475
+            ],
+            [
+              145.060258,
+              -37.679408
+            ]
+          ]
+        ],
+        "type": "Polygon"
+      },
+      "id": "2308a8f36afdc8e2c6b2d645a686b5f6"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker": "Tutorial 3"
+      },
+      "geometry": {
+        "coordinates": [
+          145.060617,
+          -37.679719
+        ],
+        "type": "Point"
+      },
+      "id": "29c5086eb93dc3cf5c0c2f5dec4c91d8"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker": "Lecture 4"
+      },
+      "geometry": {
+        "coordinates": [
+          145.060384,
+          -37.679561
+        ],
+        "type": "Point"
+      },
+      "id": "2cc1da1d4b6b8f15cde0e0086e250890"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "junction": 2
+      },
+      "geometry": {
+        "coordinates": [
+          145.060544,
+          -37.67973
+        ],
+        "type": "Point"
+      },
+      "id": "303174ce809f937aaefc26a5954d6311"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Information Hub"
+      },
+      "geometry": {
+        "coordinates": [
+          145.060513,
+          -37.679561
+        ],
+        "type": "Point"
+      },
+      "id": "3336d58c7c966753ad7451ee739f71b2"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "perimeter": 9
+      },
+      "geometry": {
+        "coordinates": [
+          145.060497,
+          -37.679757
+        ],
+        "type": "Point"
+      },
+      "id": "3a42cc9ba8936b1c1734916b58871476"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "junction": 8
+      },
+      "geometry": {
+        "coordinates": [
+          145.060458,
+          -37.679551
+        ],
+        "type": "Point"
+      },
+      "id": "3a5cc07870dfd596c26b9885bc9adfed"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "junction": 7
+      },
+      "geometry": {
+        "coordinates": [
+          145.060523,
+          -37.679507
+        ],
+        "type": "Point"
+      },
+      "id": "3ed1c3b0aa44e75b310e2789eb81b4a3"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Lecture 001"
+      },
+      "geometry": {
+        "coordinates": [
+          145.060298,
+          -37.67948
+        ],
+        "type": "Point"
+      },
+      "id": "416b284723d52160be5a90d91f98d04e"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "toilet"
+      },
+      "geometry": {
+        "coordinates": [
+          145.060454,
+          -37.679749
+        ],
+        "type": "Point"
+      },
+      "id": "47c6ae3c8c2208c51eb637a55a910e14"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "perimeter": 7
+      },
+      "geometry": {
+        "coordinates": [
+          145.060698,
+          -37.679522
+        ],
+        "type": "Point"
+      },
+      "id": "520e3b64e8964dce12597e911813761a"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Lecture 003"
+      },
+      "geometry": {
+        "coordinates": [
+          145.06029,
+          -37.679523
+        ],
+        "type": "Point"
+      },
+      "id": "52a9d5dc80069b63b6f35acbead61809"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "perimeter": 4
+      },
+      "geometry": {
+        "coordinates": [
+          145.060507,
+          -37.679467
+        ],
+        "type": "Point"
+      },
+      "id": "53c0c4eb751bf30613a8fc681f1e966c"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "perimeter": 3
+      },
+      "geometry": {
+        "coordinates": [
+          145.060496,
+          -37.679501
+        ],
+        "type": "Point"
+      },
+      "id": "53c6f9a9ef46f166d6d422d6d51face6"
+    },
+    {
+      "type": "Feature",
+      "properties": {},
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              145.060481,
+              -37.679832
+            ],
+            [
+              145.06039,
+              -37.67982
+            ],
+            [
+              145.060403,
+              -37.679743
+            ],
+            [
+              145.060495,
+              -37.679756
+            ],
+            [
+              145.060481,
+              -37.679832
+            ]
+          ]
+        ],
+        "type": "Polygon"
+      },
+      "id": "5747b4bbd970f432d4daa9555cb861fd"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker": "Lecture 2"
+      },
+      "geometry": {
+        "coordinates": [
+          145.060404,
+          -37.679453
+        ],
+        "type": "Point"
+      },
+      "id": "5892509575f22194eb5ff0cb09c16d97"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "perimeter": 13
+      },
+      "geometry": {
+        "coordinates": [
+          145.060229,
+          -37.679573
+        ],
+        "type": "Point"
+      },
+      "id": "5bacae5cdb4d3f9688165e2b512ca61b"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker": "Lecture 3"
+      },
+      "geometry": {
+        "coordinates": [
+          145.060289,
+          -37.67955
+        ],
+        "type": "Point"
+      },
+      "id": "5e4d5f14550d17714ab2bffc7cabeeba"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "perimeter": 5
+      },
+      "geometry": {
+        "coordinates": [
+          145.060584,
+          -37.679478
+        ],
+        "type": "Point"
+      },
+      "id": "667717eb2ca1bef06aa8a6ef8f8eb527"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Tutorial 002"
+      },
+      "geometry": {
+        "coordinates": [
+          145.060587,
+          -37.679633
+        ],
+        "type": "Point"
+      },
+      "id": "683d4e4bc21e36f954bd25620ca60b7d"
+    },
+    {
+      "type": "Feature",
+      "properties": {},
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              145.060695,
+              -37.679524
+            ],
+            [
+              145.06061,
+              -37.679515
+            ],
+            [
+              145.060594,
+              -37.679594
+            ],
+            [
+              145.060682,
+              -37.679607
+            ],
+            [
+              145.060695,
+              -37.679524
+            ]
+          ]
+        ],
+        "type": "Polygon"
+      },
+      "id": "6e630187163a0d24d0c15da6f19216b7"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "perimeter": 2
+      },
+      "geometry": {
+        "coordinates": [
+          145.060456,
+          -37.679497
+        ],
+        "type": "Point"
+      },
+      "id": "74fef6b1fa7445dfd01fe3d4eef1db50"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "junction": 6
+      },
+      "geometry": {
+        "coordinates": [
+          145.06026,
+          -37.679498
+        ],
+        "type": "Point"
+      },
+      "id": "80e3ab146a3aad8f744d0cb940229388"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Lecture 002"
+      },
+      "geometry": {
+        "coordinates": [
+          145.060403,
+          -37.679491
+        ],
+        "type": "Point"
+      },
+      "id": "87537f0572ff4244d1076857529ffce9"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "perimeter": 0
+      },
+      "geometry": {
+        "coordinates": [
+          145.060258,
+          -37.679405
+        ],
+        "type": "Point"
+      },
+      "id": "a8d201eac83c9ec63cc2da87c8233d70"
+    },
+    {
+      "type": "Feature",
+      "properties": {},
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              145.060499,
+              -37.679503
+            ],
+            [
+              145.060507,
+              -37.679469
+            ],
+            [
+              145.060583,
+              -37.679479
+            ],
+            [
+              145.060575,
+              -37.679512
+            ],
+            [
+              145.060499,
+              -37.679503
+            ]
+          ]
+        ],
+        "type": "Polygon"
+      },
+      "id": "acf41333c63070510b2f52e606146531"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "junction": 3
+      },
+      "geometry": {
+        "coordinates": [
+          145.060454,
+          -37.679739
+        ],
+        "type": "Point"
+      },
+      "id": "b1e862f1f1b3183fd7b3441892d7ed35"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "perimeter": 1
+      },
+      "geometry": {
+        "coordinates": [
+          145.060466,
+          -37.679429
+        ],
+        "type": "Point"
+      },
+      "id": "b7152fc168728cc9b532801c15524ce2"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Entrance"
+      },
+      "geometry": {
+        "coordinates": [
+          145.06053,
+          -37.679508
+        ],
+        "type": "Point"
+      },
+      "id": "bc400aef17ab26b2b5ff4beed99f9c1c"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker": "Tutorial 1"
+      },
+      "geometry": {
+        "coordinates": [
+          145.060638,
+          -37.679557
+        ],
+        "type": "Point"
+      },
+      "id": "c2d6db2d2b47b6e4aea4feefe8d8ed36"
+    },
+    {
+      "type": "Feature",
+      "properties": {},
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              145.060482,
+              -37.679558
+            ],
+            [
+              145.06046,
+              -37.67969
+            ],
+            [
+              145.060525,
+              -37.679698
+            ],
+            [
+              145.060545,
+              -37.679566
+            ],
+            [
+              145.060482,
+              -37.679558
+            ]
+          ]
+        ],
+        "type": "Polygon"
+      },
+      "id": "c80f8746a201cbafdb42a7545b8f3dd7"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "junction": 0
+      },
+      "geometry": {
+        "coordinates": [
+          145.060514,
+          -37.679552
+        ],
+        "type": "Point"
+      },
+      "id": "cbee1d6e706607d9627bf84a47fe446c"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker": "Tutorial 2"
+      },
+      "geometry": {
+        "coordinates": [
+          145.060629,
+          -37.679633
+        ],
+        "type": "Point"
+      },
+      "id": "d0fdc46105d8d47e20bb953a557277c4"
+    },
+    {
+      "type": "Feature",
+      "properties": {},
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              145.060348,
+              -37.679531
+            ],
+            [
+              145.060438,
+              -37.67954
+            ],
+            [
+              145.060428,
+              -37.679593
+            ],
+            [
+              145.060339,
+              -37.679584
+            ],
+            [
+              145.060348,
+              -37.679531
+            ]
+          ]
+        ],
+        "type": "Polygon"
+      },
+      "id": "d311aa90010f4e1beb62bce3a07c367a"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker": "Toilet"
+      },
+      "geometry": {
+        "coordinates": [
+          145.060433,
+          -37.679788
+        ],
+        "type": "Point"
+      },
+      "id": "daf50799cad5fd87d86668c35a7ba1cf"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "perimeter": 6
+      },
+      "geometry": {
+        "coordinates": [
+          145.060577,
+          -37.67951
+        ],
+        "type": "Point"
+      },
+      "id": "dd7edf7a9c7a010fd44031f3520ab6e6"
+    },
+    {
+      "type": "Feature",
+      "properties": {},
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              145.060361,
+              -37.67942
+            ],
+            [
+              145.060464,
+              -37.679431
+            ],
+            [
+              145.060453,
+              -37.679496
+            ],
+            [
+              145.060351,
+              -37.679486
+            ],
+            [
+              145.060361,
+              -37.67942
+            ]
+          ]
+        ],
+        "type": "Polygon"
+      },
+      "id": "df462ad3007159b8c2a8f0da5d9165af"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker": "Lecture 1"
+      },
+      "geometry": {
+        "coordinates": [
+          145.060302,
+          -37.679442
+        ],
+        "type": "Point"
+      },
+      "id": "e14981c0c40f4a783a6419fa0be27e5b"
+    },
+    {
+      "type": "Feature",
+      "properties": {},
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              145.060682,
+              -37.679607
+            ],
+            [
+              145.060595,
+              -37.679595
+            ],
+            [
+              145.060582,
+              -37.679676
+            ],
+            [
+              145.060668,
+              -37.679686
+            ],
+            [
+              145.060682,
+              -37.679607
+            ]
+          ]
+        ],
+        "type": "Polygon"
+      },
+      "id": "e3b0a8563de0f0a62fcd7cc14e9bddb9"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "junction": 5
+      },
+      "geometry": {
+        "coordinates": [
+          145.060444,
+          -37.679519
+        ],
+        "type": "Point"
+      },
+      "id": "e447173110a1902af4b0f6dd220c3282"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "perimeter": 11
+      },
+      "geometry": {
+        "coordinates": [
+          145.060388,
+          -37.679821
+        ],
+        "type": "Point"
+      },
+      "id": "eaf9de04ddf754df66ebe0ad30cacab1"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Tutorial 001"
+      },
+      "geometry": {
+        "coordinates": [
+          145.060601,
+          -37.679552
+        ],
+        "type": "Point"
+      },
+      "id": "fd01f33f4d1b6e170fc686c9314198de"
+    }
+  ],
+  "type": "FeatureCollection"
+}

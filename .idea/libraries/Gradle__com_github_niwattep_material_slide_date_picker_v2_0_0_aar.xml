@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Gradle: com.github.niwattep:material-slide-date-picker:v2.0.0@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/abf04a59ce9ddfd70c4e2fcc585ad2d5/jetified-material-slide-date-picker-v2.0.0/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/abf04a59ce9ddfd70c4e2fcc585ad2d5/jetified-material-slide-date-picker-v2.0.0/AndroidManifest.xml" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/abf04a59ce9ddfd70c4e2fcc585ad2d5/jetified-material-slide-date-picker-v2.0.0/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.niwattep/material-slide-date-picker/v2.0.0/3b35a0afec8f7559183043aea2fbd9bccbaac76a/material-slide-date-picker-v2.0.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

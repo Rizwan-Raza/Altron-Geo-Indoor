@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent" >
+    <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+        xmlns:app="http://schemas.android.com/apk/res-auto"
+        xmlns:tools="http://schemas.android.com/tools"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@color/background"
+        android:padding="@dimen/_30sdp"
+        tools:context=".RegisterForm_3"
+        android:orientation="vertical"
+        >
+
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:src="@drawable/geoindoorlogo"
+            android:layout_marginTop="@dimen/_50sdp"
+            android:padding="@dimen/_1sdp"
+            android:contentDescription="@string/app_name"
+            />
+
+
+        <RadioGroup
+            android:id="@+id/radio_group_mobility"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            android:layout_marginTop="@dimen/_60sdp"
+            android:focusable="true"
+            android:focusableInTouchMode="true">
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/mobility"
+                android:textColor="@color/colorAccent"
+                android:textSize="@dimen/_22ssp"
+                android:textStyle="bold"/>
+            <RadioButton
+                android:id="@+id/radio_walker"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/walker"
+                android:layout_marginTop="@dimen/_30sdp"
+                android:textSize="@dimen/_22ssp"
+                android:textColor="@color/colorAccent"/>
+
+            <RadioButton
+                android:id="@+id/radio_wheelchair"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/wheelchair"
+                android:layout_marginTop="@dimen/_30sdp"
+                android:textSize="@dimen/_22ssp"
+                android:textColor="@color/colorAccent" />
+
+            <RadioButton
+                android:id="@+id/radio_none"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/none"
+                android:layout_marginTop="30dp"
+                android:textSize="@dimen/_22ssp"
+                android:textColor="@color/colorAccent" />
+
+        </RadioGroup>
+
+
+
+        <Button
+            android:id="@+id/btn_mobility_nxt"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/next"
+            android:textSize="@dimen/_22ssp"
+            android:textColor="@color/background"
+            android:layout_marginTop="@dimen/_50sdp"
+            android:background="@drawable/rounded"
+            android:onClick="btn_disability_registration"/>
+
+    </LinearLayout>
+</ScrollView>

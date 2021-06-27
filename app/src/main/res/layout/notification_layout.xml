@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content">
+
+    <RelativeLayout
+        android:id="@+id/layout"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:padding="@dimen/_10sdp">
+
+        <Button
+            android:id="@+id/flashButton"
+            android:layout_width="@dimen/_55sdp"
+            android:layout_height="wrap_content"
+            android:layout_alignParentRight="true"
+            android:layout_centerVertical="true"
+            android:text="@string/snooze_off" />
+
+        <ImageView
+            android:id="@+id/icon"
+            android:layout_width="@dimen/_60sdp"
+            android:layout_height="@dimen/_45sdp"
+            android:layout_alignParentLeft="true"
+            android:layout_marginLeft="-10dp"
+            android:layout_marginTop="@dimen/_5sdp"
+            android:layout_marginBottom="@dimen/_5sdp"
+            android:contentDescription="@string/app_name"
+            android:src="@mipmap/ic_launcher" />
+
+        <RelativeLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerVertical="true"
+            android:layout_toRightOf="@+id/icon">
+
+            <TextView
+                android:id="@+id/message"
+                android:layout_width="@dimen/_150sdp"
+                android:layout_height="wrap_content"
+                android:layout_alignParentLeft="true"
+                android:text="@string/flashlight"
+                android:textColor="#000000"
+                android:textSize="@dimen/_13ssp" />
+
+            <TextView
+                android:id="@+id/date"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_below="@+id/message"
+                android:layout_alignParentLeft="true"
+                android:layout_marginTop="@dimen/_3sdp"
+                android:textColor="#000000"
+                android:textSize="@dimen/_13ssp" />
+        </RelativeLayout>
+    </RelativeLayout>
+</LinearLayout>

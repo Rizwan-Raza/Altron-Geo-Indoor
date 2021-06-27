@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/background">
+<androidx.constraintlayout.widget.ConstraintLayout
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/background"
+    android:padding="@dimen/_30sdp"
+    tools:context=".Navigation"
+    >
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        tools:layout_editor_absoluteX="39dp"
+        tools:layout_editor_absoluteY="39dp">
+
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="@dimen/_30sdp"
+            android:contentDescription="@string/app_name"
+            android:padding="@dimen/_1sdp"
+            android:src="@drawable/geoindoorlogo" />
+
+        <Button
+            android:id="@+id/navigationButton"
+            android:layout_width="match_parent"
+            android:layout_height="@dimen/_60sdp"
+            android:layout_marginTop="@dimen/_30sdp"
+            android:background="@drawable/rounded_button"
+            android:backgroundTint="#EB5757"
+            android:drawableStart="@drawable/compass"
+            android:fontFamily="sans-serif"
+            android:gravity="center_vertical"
+            android:onClick="btn_whereAmI"
+            android:paddingStart="@dimen/_15sdp"
+            android:paddingEnd="@dimen/_40sdp"
+            android:text="@string/whereAmI"
+            android:textAlignment="center"
+            android:textColor="#FFFFFF"
+            android:textSize="@dimen/_23ssp"
+            android:textStyle="bold"
+            tools:ignore="RtlCompat" />
+
+        <Button
+            android:id="@+id/viewAgendaMapButton"
+            android:layout_width="match_parent"
+            android:layout_height="@dimen/_60sdp"
+            android:layout_marginTop="@dimen/_30sdp"
+            android:background="@drawable/rounded_button"
+            android:backgroundTint="#56B4F3"
+            android:drawableStart="@drawable/compass"
+            android:fontFamily="sans-serif"
+            android:gravity="center_vertical"
+            android:onClick="btn_viewMyAgendasOnMap"
+            android:paddingStart="@dimen/_15sdp"
+            android:paddingEnd="@dimen/_30sdp"
+            android:text="@string/view_agenda_map"
+            android:textAlignment="center"
+            android:textColor="#FFFFFF"
+            android:textSize="@dimen/_23ssp"
+            android:textStyle="bold"
+            tools:ignore="RtlCompat" />
+
+        <Button
+            android:id="@+id/indoorNavigationButton"
+            android:layout_width="match_parent"
+            android:layout_height="@dimen/_60sdp"
+            android:layout_marginTop="@dimen/_30sdp"
+            android:background="@drawable/rounded_button"
+            android:backgroundTint="#6FCF97"
+            android:drawableStart="@drawable/compass"
+            android:fontFamily="sans-serif"
+            android:gravity="center_vertical"
+            android:onClick="btn_indoorNavigation"
+            android:paddingStart="@dimen/_15sdp"
+            android:paddingEnd="@dimen/_30sdp"
+            android:text="@string/indoor_navigation"
+            android:textAlignment="center"
+            android:textColor="#FFFFFF"
+            android:textSize="@dimen/_23ssp"
+            android:textStyle="bold"
+            tools:ignore="RtlCompat" />
+    </LinearLayout>
+
+
+</androidx.constraintlayout.widget.ConstraintLayout>
+</ScrollView>

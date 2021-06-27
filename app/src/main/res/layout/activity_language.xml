@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent" >
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/background"
+    android:orientation="vertical"
+    android:padding="@dimen/_30sdp"
+    tools:context=".LanguageActivity">
+
+
+    <ImageView
+        android:id="@+id/langImageView"
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/_200sdp"
+        android:contentDescription="@string/app_name"
+        android:padding="@dimen/_1sdp"
+        android:src="@drawable/icon"
+        app:layout_constraintBottom_toTopOf="@+id/selection_text"
+        app:layout_constraintTop_toTopOf="parent" />
+
+
+    <TextView
+        android:id="@+id/selection_text"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_margin="@dimen/_20sdp"
+        android:text="@string/lang_select"
+        android:textSize="@dimen/_20ssp"
+        app:layout_constraintBottom_toTopOf="@+id/relativeView"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/langImageView" />
+
+    <RelativeLayout
+        android:id="@+id/relativeView"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_centerInParent="true"
+        app:layout_constraintBottom_toTopOf="@+id/continue_btn"
+        app:layout_constraintTop_toBottomOf="@+id/selection_text"
+        tools:layout_editor_absoluteX="39dp">
+
+        <Button
+            android:id="@+id/langEnBtn"
+            android:layout_width="@dimen/_235sdp"
+            android:layout_height="@dimen/_50sdp"
+            android:layout_alignParentStart="true"
+            android:layout_alignParentTop="true"
+            android:layout_alignParentEnd="true"
+            android:layout_marginBottom="@dimen/_24sdp"
+            android:background="@drawable/round_button"
+            android:drawableStart="@drawable/united_states"
+            android:fontFamily="sans-serif"
+            android:onClick="selectedEnglish"
+            android:padding="@dimen/_8sdp"
+            android:text="@string/english"
+            android:textColor="#FFFFFF"
+            android:textSize="@dimen/_24ssp"
+            android:textStyle="bold" />
+
+        <Button
+            android:id="@+id/langFrBtn"
+            android:layout_width="@dimen/_235sdp"
+            android:layout_height="@dimen/_50sdp"
+            android:layout_below="@+id/langEnBtn"
+            android:layout_alignParentStart="true"
+            android:layout_alignParentEnd="true"
+            android:background="@drawable/border_btn"
+            android:drawableStart="@drawable/france"
+            android:fontFamily="sans-serif"
+            android:onClick="selectedFrench"
+            android:padding="@dimen/_8sdp"
+            android:text="@string/french"
+            android:textColor="@color/colorPrimary"
+            android:textSize="@dimen/_24ssp"
+            android:textStyle="bold" />
+
+    </RelativeLayout>
+
+    <Button
+        android:id="@+id/continue_btn"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="15dp"
+        android:layout_marginBottom="@dimen/_24sdp"
+        android:background="@drawable/rounded"
+        android:onClick="continueBtn"
+        android:text="@string/lang_continue"
+        android:textColor="@color/background"
+        android:textSize="@dimen/_22ssp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/relativeView"
+        tools:layout_editor_absoluteX="39dp" />
+
+
+</androidx.constraintlayout.widget.ConstraintLayout>
+</ScrollView>

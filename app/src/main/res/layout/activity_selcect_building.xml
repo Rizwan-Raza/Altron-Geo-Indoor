@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/background">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@color/background"
+        android:orientation="vertical"
+        android:padding="@dimen/_30sdp"
+        tools:context=".SelectBuilding">
+
+        <Button
+            android:id="@+id/building80"
+            android:layout_width="match_parent"
+            android:layout_height="@dimen/_63sdp"
+            android:layout_marginTop="@dimen/_60sdp"
+            android:background="@drawable/rounded_button"
+            android:backgroundTint="#56B4F3"
+            android:onClick="building80"
+            android:padding="@dimen/_16sdp"
+            android:text="@string/building_80"
+            android:textColor="@color/background"
+            android:textSize="@dimen/_22ssp"
+            android:textStyle="bold" />
+
+
+        <Button
+            android:id="@+id/building213"
+            android:layout_width="match_parent"
+            android:layout_height="@dimen/_63sdp"
+            android:layout_marginTop="@dimen/_60sdp"
+            android:background="@drawable/rounded_button"
+            android:backgroundTint="#6FCF97"
+            android:onClick="building213"
+            android:padding="@dimen/_16sdp"
+            android:text="@string/building_213"
+            android:textColor="@color/background"
+            android:textSize="@dimen/_22ssp"
+            android:textStyle="bold" />
+
+        <Button
+            android:id="@+id/building217"
+            android:layout_width="match_parent"
+            android:layout_height="@dimen/_63sdp"
+            android:layout_marginTop="@dimen/_60sdp"
+            android:background="@drawable/rounded_button"
+            android:backgroundTint="#EB5757"
+            android:onClick="building217"
+            android:padding="@dimen/_16sdp"
+            android:text="@string/building_217"
+            android:textColor="@color/background"
+            android:textSize="@dimen/_22ssp"
+            android:textStyle="bold" />
+
+    </LinearLayout>
+</ScrollView>

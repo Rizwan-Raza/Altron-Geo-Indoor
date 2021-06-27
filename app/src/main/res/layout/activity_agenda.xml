@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/background"
+    tools:context=".agendaActivity">
+
+    <ImageView
+        android:layout_width="wrap_content"
+        android:layout_height="@dimen/_100sdp"
+        android:src="@drawable/geoindoorlogo"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.462"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.142"
+        android:contentDescription="@string/app_name" />
+
+    <Button
+        android:id="@+id/viewButton"
+        android:layout_width="@dimen/_235sdp"
+        android:layout_height="@dimen/_63sdp"
+        android:background="@drawable/round_button"
+        android:backgroundTint="#56B4F3"
+        android:drawableLeft="@drawable/book"
+        android:fontFamily="sans-serif"
+        android:padding="@dimen/_16sdp"
+        android:text="@string/view"
+        android:textStyle="bold"
+        android:textColor="#FFFFFF"
+        android:textSize="@dimen/_24ssp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.454"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.39" />
+
+    <Button
+        android:id="@+id/createButton"
+        android:layout_width="@dimen/_235sdp"
+        android:layout_height="@dimen/_63sdp"
+        android:background="@drawable/rounded_button"
+        android:backgroundTint="#6FCF97"
+        android:drawableLeft="@drawable/pencil"
+        android:fontFamily="sans-serif"
+        android:padding="@dimen/_16sdp"
+        android:text="@string/create"
+        android:textStyle="bold"
+        android:textColor="#FFFFFF"
+        android:textSize="@dimen/_24ssp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.454"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.562" />
+
+
+</androidx.constraintlayout.widget.ConstraintLayout>

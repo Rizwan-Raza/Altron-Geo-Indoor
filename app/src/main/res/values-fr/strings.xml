@@ -1,0 +1,192 @@
+<resources>
+    <!-- Agenda Strings -->
+    <string name="lang_continue">Continuez</string>
+    <string name="lang_select">Choisissez votre langue</string>
+
+    <!-- Agenda Strings -->
+    <string name="agenda">Agenda</string>
+    <string name="view">Vue</string>
+    <string name="create">Créer</string>
+
+    <!-- Create Agenda Strings -->
+    <string name="create_agenda">Créer un agenda</string>
+    <string name="create_agenda_error">Veuillez remplir chaque champs</string>
+    <string name="agenda_name">Nom de l\'agenda</string>
+    <string name="agenda_name_error">Veuillez saisir le nom de l\'agenda</string>
+    <string name="agenda_type">Type d\'agenda</string>
+    <string name="appointment">Rendez-vous</string>
+    <string name="bakery">Boulangerie</string>
+    <string name="get_together">Se réunir</string>
+    <string name="hospital">Hôpital</string>
+    <string name="meeting">Réunion</string>
+    <string name="social_event">Événement social</string>
+    <string name="walk">Marche</string>
+    <string name="other">Autre</string>
+    <string name="agenda_type_error">Veuillez sélectionner le type d\'agenda</string>
+    <string name="select_date">Sélectionner une date</string>
+    <string name="agenda_date_error">Veuillez sélectionner la date</string>
+    <string name="select_time">Sélectionnez l\'heure</string>
+    <string name="agenda_time_error">Veuillez sélectionner l\'heure</string>
+    <string name="agenda_time_past">Non valide, heure passée</string>
+    <string name="address">Adresse</string>
+    <string name="agenda_address_error">Veuillez saisir une adresse</string>
+    <string name="person_meet">Personne à rencontrer</string>
+    <string name="contact_number">Numéro de contact</string>
+    <string name="notes">Remarques</string>
+    <string name="agenda_create_success">Agenda créé avec succès.</string>
+    <string name="agenda_create_failure">Quelque chose c\'est mal passé. Merci d\'essayer plus tard.</string>
+    <string name="agenda_create_conflict">Un agenda avec la même date et heure existe déjà, veuillez le modifier.</string>
+
+    <string name="submit">Soumettre</string>
+    <string name="next">Suivant</string>
+
+    <!-- Where am I Strings -->
+    <string name="whereAmI">Où suis-je ?</string>
+    <string name="youAreHere">Tu es là !!</string>
+    <string name="location_perms">Autorisation de localisation accordée</string>
+
+
+    <!-- Detail Agenda Strings -->
+    <string name="detail_agenda">Détail de l\'agenda</string>
+    <string name="agenda_update_success">Les détails de l\'agenda ont été mis à jour</string>
+    <string name="agenda_update_failure">Les détails de l\'agenda sont identiques et ne peuvent pas être mis à jour</string>
+    <string name="delete_agenda">Supprimer un agenda</string>
+    <string name="delete_agenda_warn">Voulez-vous supprimer cet agenda? Ça ne peut pas être annulé</string>
+    <string name="agenda_delete_success">L\'ordre du jour a été supprimé</string>
+    <string name="server_error">Quelque chose s\'est mal passé essaie encore</string>
+    <string name="delete">Effacer</string>
+    <string name="no">Non</string>
+    <string name="complete">Compléter</string>
+    <string name="agenda_complete_success">Ordre du jour terminé!</string>
+
+    <string name="meet_doctor">Rencontre avec le docteur</string>
+    <string name="check_up">Vérification</string>
+    <string name="dr_fok" translatable="false">Dr Fok</string>
+    <string name="date">Date</string>
+    <string name="sample_date" translatable="false">21–4-2021</string>
+    <string name="time">Temps</string>
+    <string name="sample_time" translatable="false">12:48</string>
+    <string name="sample_number" translatable="false">0411111111</string>
+    <string name="update">Mettre à jour</string>
+
+    <!-- Forgot Password Strings -->
+    <string name="reset_password">réinitialiser le mot de passe</string>
+    <string name="reset_password_success">Mot de passe réinitialisé avec succès</string>
+    <string name="reset_password_failure">Numéro de portable invalide</string>
+    <string name="please_enter_password">Veuillez entrer le mot de passe</string>
+    <string name="please_enter_pass_8">Veuillez saisir un mot de passe d\'au moins 8 caractères</string>
+    <string name="please_confirm_password">Veuillez confirmer le mot de passe</string>
+    <string name="password_match_failure">La confirmation du mot de passe ne correspond pas au mot de passe</string>
+
+    <string name="mobile">Mobile</string>
+    <string name="new_password">nouveau mot de passe</string>
+    <string name="c_new_password">Confirmer le nouveau mot de passe</string>
+
+    <!-- Home Page Strings -->
+    <string name="home_page">Page d\'accueil</string>
+    <string name="hello_sp">Bonjour </string>
+
+    <string name="profile">Profil</string>
+
+    <!-- Indoor Navigation Strings -->
+    <string name="indoor_navigation">Navigation intérieure</string>
+    <string name="current_location">Localisation actuelle</string>
+
+    <!-- Login Form Strings -->
+    <string name="login">Connexion</string>
+    <string name="invalid_creds">Mobile / mot de passe invalide</string>
+
+    <string name="remember_me">Souviens-toi de moi</string>
+    <string name="mobile_number">Numéro de portable</string>
+    <string name="password">Mot de passe</string>
+    <string name="forgot_password_qm">Mot de passe oublié?</string>
+
+    <!-- Main Form Strings -->
+    <string name="main_form">Forme principale</string>
+
+    <string name="hello_world_x">Bonjour le monde!</string>
+
+    <!-- Navigation Strings -->
+    <string name="navigation">La navigation</string>
+
+    <string name="view_agenda_map">Voir l\'agenda sur la carte</string>
+
+    <!-- Outdoor Nav Strings -->
+    <string name="nav_mode">Mode de navigation</string>
+
+    <string name="car">Voiture</string>
+    <string name="bike">Bicyclette</string>
+
+    <!-- Register Strings -->
+    <string name="register">S\'inscrire</string>
+
+    <string name="please_fname">Veuillez entrer le prénom</string>
+    <string name="please_lname">Veuillez saisir votre nom</string>
+    <string name="uploading_image">Téléchargement de l\'image…</string>
+    <string name="image_uploaded">Image téléchargée.</string>
+    <string name="percentage">Pourcentage: </string>
+
+    <string name="please_birth">Veuillez saisir la date de naissance</string>
+
+    <string name="mobile_failure">Le numéro de portable existe déjà</string>
+    <string name="please_email">Veuillez saisir une adresse e-mail</string>
+    <string name="please_valid_email">S\'il vous plaît, mettez une adresse email valide</string>
+    <string name="please_mobile">Veuillez saisir le numéro de portable</string>
+    <string name="please_valid_mobile">Veuillez saisir un numéro de mobile valide</string>
+
+    <string name="please_select_option">veuillez sélectionner une option</string>
+
+    <string name="none">Rien</string>
+
+    <string name="no_agenda">Aucun agenda créé</string>
+
+    <string name="register_success">Inscription réussi!</string>
+    <string name="register_failure">Inscription échouée!</string>
+
+    <string name="change_picture">Changer la photo</string>
+    <string name="first_name">Prénom</string>
+    <string name="last_name">Nom de famille</string>
+    <string name="dob">Date de naissance</string>
+    <string name="email">E-mail</string>
+    <string name="mobility">Mobilité</string>
+    <string name="walker">Marcheur</string>
+    <string name="wheelchair">Fauteuil roulant</string>
+
+    <string name="visual_impairment">Déficience visuelle</string>
+    <string name="hearing_impairment">Déficience auditive</string>
+    <string name="speech_impairment">Troubles de la parole</string>
+
+    <!-- Select Building Strings -->
+    <string name="select_building">Sélectionnez le bâtiment</string>
+
+    <string name="building_80">Bâtiment 80</string>
+    <string name="building_213">Bâtiment 213</string>
+    <string name="building_217">Bâtiment 217</string>
+
+    <!-- View Agenda Strings -->
+    <string name="destination">Destination</string>
+    <string name="starting">Départ</string>
+    <string name="go">Va</string>
+
+    <!-- View Agenda Strings -->
+    <string name="view_agenda">Voir l\'agenda</string>
+
+    <!-- View Agenda Strings -->
+    <string name="view_my_agenda_map">Afficher mes agendas sur la carte</string>
+    <string name="no_agenda_planned">Aucun ordre du jour prévu pour aujourd\'hui</string>
+
+    <!-- View Profile Strings -->
+    <string name="user_profile">Profil de l\'utilisateur</string>
+    <string name="select_mobility">Sélectionnez votre mobilité</string>
+    <string name="user_update_success">Les détails de l\'utilisateur ont été mis à jour</string>
+    <string name="user_update_failure">Les détails de l\'utilisateur sont identiques et ne peuvent pas être mis à jour</string>
+
+    <string name="swanston" translatable="false">Swanston</string>
+    <string name="email_address">Adresse e-mail</string>
+    <string name="disability_type">Type d\'incapacité</string>
+    <string name="mobility_type">Type de mobilité</string>
+
+    <!-- Notification Strings -->
+    <string name="snooze_off">Répéter</string>
+    <string name="flashlight">Lampe de poche</string>
+</resources>

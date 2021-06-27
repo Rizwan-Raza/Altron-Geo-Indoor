@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "666949630330",
+    "firebase_url": "https://geoindoor-cbc87-default-rtdb.firebaseio.com",
+    "project_id": "geoindoor-cbc87",
+    "storage_bucket": "geoindoor-cbc87.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:666949630330:android:755c6fea53b1aef0767ec3",
+        "android_client_info": {
+          "package_name": "com.example.geoindoor"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "666949630330-oi5t0soh005m1t3b1et333j8f14jaaub.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDVmiNnHc4Bq85Xw-0WMZ8Ooi2Sd0yjfPk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "666949630330-oi5t0soh005m1t3b1et333j8f14jaaub.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

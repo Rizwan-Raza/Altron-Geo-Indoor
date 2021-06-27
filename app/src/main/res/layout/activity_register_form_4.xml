@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent" >
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@color/background"
+        android:padding="@dimen/_30sdp"
+        tools:context=".RegisterForm_4"
+        android:orientation="vertical"
+        >
+
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:src="@drawable/geoindoorlogo"
+            android:layout_marginTop="@dimen/_30sdp"
+            android:padding="@dimen/_1sdp"
+            android:contentDescription="@string/app_name"
+            />
+
+
+        <CheckBox
+            android:id="@+id/checkBox"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="@dimen/_100sdp"
+            android:text="@string/visual_impairment"
+            android:textSize="@dimen/_22ssp"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent" />
+
+        <CheckBox
+            android:id="@+id/checkBox2"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="@dimen/_50sdp"
+            android:text="@string/hearing_impairment"
+            app:layout_constraintStart_toStartOf="parent"
+            android:textSize="@dimen/_22ssp"
+            app:layout_constraintTop_toBottomOf="@+id/checkBox" />
+
+        <CheckBox
+            android:id="@+id/checkBox3"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="@dimen/_50sdp"
+            android:text="@string/speech_impairment"
+            app:layout_constraintStart_toStartOf="parent"
+            android:textSize="@dimen/_22ssp"
+            app:layout_constraintTop_toBottomOf="@+id/checkBox2" />
+
+
+        <Button
+            android:id="@+id/button_register"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/register"
+            android:textSize="@dimen/_22ssp"
+            android:textColor="@color/background"
+            android:layout_marginTop="@dimen/_70sdp"
+            android:background="@drawable/rounded"
+            android:onClick="btn_login"/>
+
+    </LinearLayout>
+</ScrollView>

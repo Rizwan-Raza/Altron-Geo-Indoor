@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/background">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@color/background"
+        android:orientation="vertical"
+        android:padding="@dimen/_30sdp"
+        tools:context=".OutdoorNavType">
+
+
+        <Button
+            android:id="@+id/carBtn"
+            android:layout_width="match_parent"
+            android:layout_height="@dimen/_63sdp"
+            android:layout_marginTop="@dimen/_60sdp"
+            android:background="@drawable/rounded_button"
+            android:backgroundTint="#EB5757"
+            android:drawableStart="@drawable/car"
+            android:onClick="carRoute"
+            android:padding="@dimen/_16sdp"
+            android:text="@string/car"
+            android:textColor="@color/background"
+            android:textSize="@dimen/_22ssp"
+            android:textStyle="bold" />
+
+        <Button
+            android:id="@+id/bikeBtn"
+            android:layout_width="match_parent"
+            android:layout_height="@dimen/_63sdp"
+            android:layout_marginTop="@dimen/_40sdp"
+            android:background="@drawable/rounded_button"
+            android:backgroundTint="#56B4F3"
+            android:drawableStart="@drawable/bicycle"
+            android:onClick="bikeRoute"
+            android:padding="@dimen/_16sdp"
+            android:text="@string/bike"
+            android:textColor="@color/background"
+            android:textSize="@dimen/_22ssp"
+            android:textStyle="bold" />
+
+        <Button
+            android:id="@+id/walkBtn"
+            android:layout_width="match_parent"
+            android:layout_height="@dimen/_63sdp"
+            android:layout_marginTop="@dimen/_40sdp"
+            android:background="@drawable/rounded_button"
+            android:backgroundTint="#6FCF97"
+            android:drawableStart="@drawable/walking"
+            android:onClick="walkRoute"
+            android:padding="@dimen/_16sdp"
+            android:text="@string/walk"
+            android:textColor="@color/background"
+            android:textSize="@dimen/_22ssp"
+            android:textStyle="bold" />
+    </LinearLayout>
+</ScrollView>

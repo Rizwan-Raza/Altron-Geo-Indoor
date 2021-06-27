@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent" >
+    <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+        xmlns:app="http://schemas.android.com/apk/res-auto"
+        xmlns:tools="http://schemas.android.com/tools"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@color/background"
+        tools:context=".RegisterForm_1"
+        android:orientation="vertical"
+        >
+
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:src="@drawable/geoindoorlogo"
+            android:layout_marginTop="@dimen/_20sdp"
+            android:padding="@dimen/_1sdp"
+            />
+
+
+        <com.google.android.material.textfield.TextInputLayout
+            android:id="@+id/date_of_birth"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:focusable="false"
+            android:focusableInTouchMode="true"
+            android:layout_marginTop="@dimen/_150sdp"
+            android:textColorHint="@color/colorAccent">
+
+            <com.google.android.material.textfield.TextInputEditText
+
+                android:id="@+id/date_of_birth_edit"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:hint="@string/dob"
+                android:onClick="@{() -> viewModel.onClickDate()}"
+                android:focusable="false"
+                android:ems="10"
+                android:inputType="date"
+                android:textSize="@dimen/_22ssp"
+                android:textColor="#000000"
+                android:backgroundTint="#d3d3d3" />
+
+
+
+        </com.google.android.material.textfield.TextInputLayout>
+
+
+
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/next"
+            android:textSize="@dimen/_22ssp"
+            android:textColor="@color/background"
+            android:layout_marginTop="@dimen/_100sdp"
+            android:background="@drawable/rounded"
+            android:onClick="btn_mobileNumber_registration"/>
+
+
+
+
+    </LinearLayout>
+</ScrollView>
